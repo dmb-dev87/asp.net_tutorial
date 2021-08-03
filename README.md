@@ -20,3 +20,12 @@
 
   https://codewithmukesh.com/blog/pagination-in-aspnet-core-webapi/
 
+### Build Secure ASP.NET Core API with JWT Authentication
+
+- Project
+
+  SecureApi
+
+- Tutorial URL
+
+  https://codewithmukesh.com/blog/aspnet-core-api-with-jwt-authentication/
