@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Expenses.Api.Common\Expenses.Api.Common.csproj" />
+    <ProjectReference Include="..\Expenses.Api.Models\Expenses.Api.Models.csproj" />
+    <ProjectReference Include="..\Expenses.Data.Access\Expenses.Data.Access.csproj" />
+    <ProjectReference Include="..\Expenses.Data.Model\Expenses.Data.Model.csproj" />
+    <ProjectReference Include="..\Expenses.Queries\Expenses.Queries.csproj" />
+    <ProjectReference Include="..\Expenses.Security\Expenses.Security.csproj" />
+  </ItemGroup>
+
+</Project>
