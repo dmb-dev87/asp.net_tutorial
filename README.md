@@ -29,3 +29,13 @@
 - Tutorial URL
 
   https://codewithmukesh.com/blog/aspnet-core-api-with-jwt-authentication/
+
+### Building an ASP.NET Web API with ASP.NET Core
+
+- Project
+
+  Expenses
+
+- Tutorial URL
+
+  https://www.toptal.com/asp-dot-net/asp-net-web-api-tutorial
