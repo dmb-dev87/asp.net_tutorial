@@ -39,3 +39,15 @@
 - Tutorial URL
 
   https://www.toptal.com/asp-dot-net/asp-net-web-api-tutorial
+
+### Token based authentication in C# using Web API
+
+- Project
+
+  TokenBasedAuth
+
+- Tutorial URL
+
+  https://qawithexperts.com/article/api/token-based-authentication-in-c-using-web-api/231
+  
+  
