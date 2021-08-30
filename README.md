@@ -50,4 +50,18 @@
 
   https://qawithexperts.com/article/api/token-based-authentication-in-c-using-web-api/231
   
+### Asp Net Core 5 Rest API Authentication with JWT
+
+- Project
+
+  TodoApp
+  
+- Tutorial URL
+
+  https://dev.to/moe23/asp-net-core-5-rest-api-step-by-step-2mb6
+  
+  https://dev.to/moe23/asp-net-core-5-rest-api-authentication-with-jwt-step-by-step-140d
+  
+  https://dev.to/moe23/refresh-jwt-with-refresh-tokens-in-asp-net-core-5-rest-api-step-by-step-3en5
+  
   
