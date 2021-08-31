@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +8,7 @@ using TodoApp.Models;
 
 namespace TodoApp.Data
 {
-    public class ApiDbConext : DbContext
+    public class ApiDbConext : IdentityDbContext
     {
         public DbSet<ItemData> Items { get; set; }
 
