@@ -11,6 +11,7 @@ namespace TodoApp.Data
     public class ApiDbConext : IdentityDbContext
     {
         public DbSet<ItemData> Items { get; set; }
+        public DbSet<RefreshToken> RefreshTokens { get; set; }
 
         public ApiDbConext(DbContextOptions<ApiDbConext> options)
             : base(options)

@@ -2,15 +2,17 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using TodoApp.Data;
 
 namespace TodoApp.Migrations
 {
     [DbContext(typeof(ApiDbConext))]
-    partial class ApiDbConextModelSnapshot : ModelSnapshot
+    [Migration("20210831080925_Added refresh tokens table")]
+    partial class Addedrefreshtokenstable
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
