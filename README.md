@@ -64,4 +64,15 @@
   
   https://dev.to/moe23/refresh-jwt-with-refresh-tokens-in-asp-net-core-5-rest-api-step-by-step-3en5
   
+### Build Secure ASP.NET Core API with JWT Authentication
+
+- Project
+
+  JWTAuthentication
+
+- Tutorial URL
+
+  https://codewithmukesh.com/blog/aspnet-core-api-with-jwt-authentication/
   
+  https://codewithmukesh.com/blog/refresh-tokens-in-aspnet-core/
+
