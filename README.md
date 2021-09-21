@@ -76,3 +76,13 @@
   
   https://codewithmukesh.com/blog/refresh-tokens-in-aspnet-core/
 
+### UPLOAD FILES AND SAVE IN DATABASE IN ASP.NET CORE MVC
+
+- Project
+
+  UploadFile
+
+- Tutorial URL
+
+  https://tutexchange.com/how-to-upload-files-and-save-in-database-in-asp-net-core-mvc/
+  
