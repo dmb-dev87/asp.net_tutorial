@@ -86,3 +86,12 @@
 
   https://tutexchange.com/how-to-upload-files-and-save-in-database-in-asp-net-core-mvc/
   
+### How to run background tasks in ASP.NET Core Application
+
+- Project
+
+  BackgroundTask
+
+- Tutorial URL
+
+  https://dotnetcorecentral.com/blog/background-tasks/
